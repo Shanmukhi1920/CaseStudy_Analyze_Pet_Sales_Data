@@ -1,4 +1,4 @@
-# Assoc._DA_Casestudy
+# Analyze_Pet_Sales_Data
 
 Company Background
 
@@ -15,6 +15,4 @@ The marketing team would like to answer the following questions to help with the
 ● What products are more likely to be purchased again for different types of pets?
 
 
-Refer the below link for the Case study summary:
 
-https://app.datacamp.com/workspace/w/a2b44e71-6b62-4707-910d-884657ca11e1/edit?file=notebook.ipynb
