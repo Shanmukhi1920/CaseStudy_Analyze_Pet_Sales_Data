@@ -1,10 +1,10 @@
 # Analyze_Pet_Sales_Data
 
-Company Background
+_Company Background_
 
 PetMind is a nationwide pet product retailer in the United States. With inflation hitting 41-year highs, the company is planning to reduce the cost of customer retention by improving brand loyalty. The first strategy is to launch a monthly pet box subscription in three months. The marketing team is preparing a list of popular products for the pet box subscription. The chief marketing officer wants to know whether the list should only include the products being purchased more than once.
 
-Customer Questions
+_Customer Questions_
 
 The marketing team would like to answer the following questions to help with the decision:
 
@@ -14,7 +14,7 @@ The marketing team would like to answer the following questions to help with the
 
 ● What products are more likely to be purchased again for different types of pets?
 
-Data Validation
+_Data Validation_
 
 1.Data contains no null values in any of the columns.
 
@@ -24,7 +24,7 @@ Data Validation
 
 4.Records with pet_type column value other than “cat”,“dog”, “fish”, “bird” are dropped.
 
-Data Discovery 
+_Data Discovery_
 
 1.Total 390 products were re-purchased.
 
